@@ -1,0 +1,19 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(109, 100, 118);
+   
+    
+}
+#btn{
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 4px;
+    position: relative;
+    left: 600px;
+    top: 20px;
+    
+}
+#board{
+    border: 2px solid white;
+}
